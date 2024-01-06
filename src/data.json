@@ -1,0 +1,40 @@
+
+[{
+    
+        "id":1,
+       "task": " Say GoodMorning to all my friends,parents",
+       "isCompleted":false
+   },
+
+   {
+      "id":2,
+     "task": "I need to go supermarket evening 5 pm",
+     "isCompleted":false
+   },
+
+   {
+       "id":3,
+      "task":"Need to go for gym",
+      "isCompleted":false
+   },
+   {
+       "id":4,
+       "task":"Give dog a bath",
+       "isCompleted":false
+   },
+   {
+       "id":5,
+       "task":"Do Laundry",
+       "isCompleted":false
+   },
+   {
+       "id":6,
+       "task":"Vaccum Floor",
+       "isCompleted":false
+   },
+   {
+       "id":7,
+       "task":"Feed cat",
+       "isCompleted":false
+   }
+]
